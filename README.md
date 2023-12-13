@@ -8,7 +8,7 @@
   
 ## Visão Geral:
 
-O VOIPY é uma solução poderosa que integra tecnologias VoIP e Python para oferecer monitoramento remoto de serviços em servidores. Ao empregar o Asterisk para estabelecer uma central telefônica VoIP, conectada a uma Interface de Gateway de Aplicações (AGI) em Python, o projeto fornece informações vitais sobre serviços críticos em execução nos servidores alvo.
+O VOIPY é uma solução que integra tecnologias VoIP (voz sobre IP) e Python para oferecer monitoramento remoto de serviços em servidores. Ao empregar o Asterisk para estabelecer uma central telefônica VoIP, conectada a uma Interface de Gateway de Aplicações (AGI) em Python, o projeto fornece informações vitais sobre serviços críticos em execução nos servidores alvo.
 
 ## Características Principais:
 
