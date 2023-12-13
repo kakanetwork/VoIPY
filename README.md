@@ -35,7 +35,6 @@ O VOIPY é uma solução poderosa que integra tecnologias VoIP e Python para ofe
 
 ## Licença:
 
-Este projeto é licenciado sob a [Licença MIT] - veja o arquivo [LICENSE.md] para detalhes.
+Este projeto é licenciado sob a [Licença MIT] - veja o arquivo [LICENSE] para detalhes.
 
-[CONTRIBUTING.md]: CONTRIBUTING.md
-[Licença MIT]: LICENSE.md
+[Licença MIT]: LICENSE
