@@ -1,4 +1,17 @@
-# VOIPY - Monitoramento Remoto de Serviços para Servidores
+
+<h1 align="center">📌  VOIPY - Monitoramento Remoto de Serviços para Servidores </h1>
+
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=fe428e&style=for-the-badge"/>
+
+  <img src="http://img.shields.io/static/v1?label=Python&message=2.6.13&color=fe428e&style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/static/v1?label=DJANGO&message=framework&color=fe428e&style=for-the-badge&logo=DJANGO"/>
+
+  <img src="https://img.shields.io/static/v1?label=railway&message=deploy&color=fe428e&style=for-the-badge&logo=railway"/>
+
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=fe428e&style=for-the-badge"/>
+</p>
 
 ## Desenvolvedores:
 
